@@ -39,9 +39,9 @@ Text GLabel 5700 1050 0    50   Input ~ 0
 sda
 Text GLabel 5700 1150 0    50   Input ~ 0
 scl
-Text GLabel 1150 2650 0    50   Input ~ 0
+Text GLabel 3450 5250 2    50   Input ~ 0
 sda
-Text GLabel 1150 2750 0    50   Input ~ 0
+Text GLabel 3450 5150 2    50   Input ~ 0
 scl
 Text GLabel 3450 4650 2    50   Input ~ 0
 3.3v

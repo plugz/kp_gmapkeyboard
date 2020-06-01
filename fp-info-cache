@@ -1,57 +1,64 @@
-12714572609440
-Rotary_Encoder
-RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
+14318750272499
+teensy
+Teensy1.0
+11
+
 0
-7
-6
-Rotary_Encoder
-RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles
-Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
+27
+27
+teensy
+Teensy1.0++
+20
+
 0
-7
-6
-Rotary_Encoder
-RotaryEncoder_Alps_EC11E_Vertical_H20mm
-Alps rotary encoder, EC12E... without switch (pins are dummy), vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
+51
+51
+teensy
+Teensy2.0
+11
+
 0
-7
-4
-Rotary_Encoder
-RotaryEncoder_Alps_EC11E_Vertical_H20mm_CircularMountingHoles
-Alps rotary encoder, EC12E... without switch (pins are dummy), vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
+31
+31
+teensy
+Teensy2.0++
+20
+
 0
-7
-4
-Rotary_Encoder
-RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html & http://cdn-reichelt.de/documents/datenblatt/F100/402097STEC12E08.PDF
-rotary encoder
+52
+52
+teensy
+Teensy30_31_32_LC
+
+
 0
-7
-6
-Rotary_Encoder
-RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles
-Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html & http://cdn-reichelt.de/documents/datenblatt/F100/402097STEC12E08.PDF
-rotary encoder
+39
+38
+teensy
+Teensy35_36
+
+
 0
-7
-6
-Rotary_Encoder
-RotaryEncoder_Alps_EC12E_Vertical_H20mm
-Alps rotary encoder, EC12E..., vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html
-rotary encoder
+62
+62
+teensy
+Teensy40
+
+
 0
-5
-4
-Rotary_Encoder
-RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles
-Alps rotary encoder, EC12E..., vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html
-rotary encoder
+44
+44
+teensy
+Teensy40_SMT
+
+
 0
-5
-4
+54
+54
+teensy
+Teensy41
+
+
+0
+67
+67
