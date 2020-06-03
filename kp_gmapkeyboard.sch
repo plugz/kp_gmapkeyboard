@@ -140,9 +140,9 @@ Text GLabel 9600 1300 2    50   Input ~ 0
 pot0_push
 Text GLabel 8500 1200 0    50   Input ~ 0
 agnd
-Text GLabel 8500 700  0    50   Input ~ 0
-pot0_rot0
 Text GLabel 8500 1700 0    50   Input ~ 0
+pot0_rot0
+Text GLabel 8500 700  0    50   Input ~ 0
 pot0_rot1
 Wire Wire Line
 	8500 1200 8550 1200
@@ -210,9 +210,9 @@ Text GLabel 9850 2750 2    50   Input ~ 0
 pot1_push
 Text GLabel 8750 2650 0    50   Input ~ 0
 agnd
-Text GLabel 8750 2150 0    50   Input ~ 0
-pot1_rot0
 Text GLabel 8750 3150 0    50   Input ~ 0
+pot1_rot0
+Text GLabel 8750 2150 0    50   Input ~ 0
 pot1_rot1
 Wire Wire Line
 	8750 2650 8800 2650
@@ -280,9 +280,9 @@ Text GLabel 6100 4800 2    50   Input ~ 0
 pot2_push
 Text GLabel 5000 4700 0    50   Input ~ 0
 agnd
-Text GLabel 5000 4200 0    50   Input ~ 0
-pot2_rot0
 Text GLabel 5000 5200 0    50   Input ~ 0
+pot2_rot0
+Text GLabel 5000 4200 0    50   Input ~ 0
 pot2_rot1
 Wire Wire Line
 	5000 4700 5050 4700
@@ -350,9 +350,9 @@ Text GLabel 8100 4800 2    50   Input ~ 0
 pot3_push
 Text GLabel 7000 4700 0    50   Input ~ 0
 agnd
-Text GLabel 7000 4200 0    50   Input ~ 0
-pot3_rot0
 Text GLabel 7000 5200 0    50   Input ~ 0
+pot3_rot0
+Text GLabel 7000 4200 0    50   Input ~ 0
 pot3_rot1
 Wire Wire Line
 	7000 4700 7050 4700
@@ -420,9 +420,9 @@ Text GLabel 10450 4900 2    50   Input ~ 0
 pot4_push
 Text GLabel 9350 4800 0    50   Input ~ 0
 agnd
-Text GLabel 9350 4300 0    50   Input ~ 0
-pot4_rot0
 Text GLabel 9350 5300 0    50   Input ~ 0
+pot4_rot0
+Text GLabel 9350 4300 0    50   Input ~ 0
 pot4_rot1
 Wire Wire Line
 	9350 4800 9400 4800
