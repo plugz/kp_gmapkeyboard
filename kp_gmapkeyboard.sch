@@ -134,9 +134,9 @@ F 3 "~" H 9300 1460 50  0001 C CNN
 	1    9300 1200
 	1    0    0    -1  
 $EndComp
-Text GLabel 9600 1100 2    50   Input ~ 0
+Text GLabel 9650 1100 2    50   Input ~ 0
 agnd
-Text GLabel 9600 1300 2    50   Input ~ 0
+Text GLabel 9650 1300 2    50   Input ~ 0
 pot0_push
 Text GLabel 8500 1200 0    50   Input ~ 0
 agnd
@@ -204,9 +204,9 @@ F 3 "~" H 9550 2910 50  0001 C CNN
 	1    9550 2650
 	1    0    0    -1  
 $EndComp
-Text GLabel 9850 2550 2    50   Input ~ 0
+Text GLabel 9900 2550 2    50   Input ~ 0
 agnd
-Text GLabel 9850 2750 2    50   Input ~ 0
+Text GLabel 9900 2750 2    50   Input ~ 0
 pot1_push
 Text GLabel 8750 2650 0    50   Input ~ 0
 agnd
@@ -274,9 +274,9 @@ F 3 "~" H 5800 4960 50  0001 C CNN
 	1    5800 4700
 	1    0    0    -1  
 $EndComp
-Text GLabel 6100 4600 2    50   Input ~ 0
+Text GLabel 6150 4600 2    50   Input ~ 0
 agnd
-Text GLabel 6100 4800 2    50   Input ~ 0
+Text GLabel 6150 4800 2    50   Input ~ 0
 pot2_push
 Text GLabel 5000 4700 0    50   Input ~ 0
 agnd
@@ -344,9 +344,9 @@ F 3 "~" H 7800 4960 50  0001 C CNN
 	1    7800 4700
 	1    0    0    -1  
 $EndComp
-Text GLabel 8100 4600 2    50   Input ~ 0
+Text GLabel 8150 4600 2    50   Input ~ 0
 agnd
-Text GLabel 8100 4800 2    50   Input ~ 0
+Text GLabel 8150 4800 2    50   Input ~ 0
 pot3_push
 Text GLabel 7000 4700 0    50   Input ~ 0
 agnd
@@ -414,9 +414,9 @@ F 3 "~" H 10150 5060 50  0001 C CNN
 	1    10150 4800
 	1    0    0    -1  
 $EndComp
-Text GLabel 10450 4700 2    50   Input ~ 0
+Text GLabel 10500 4700 2    50   Input ~ 0
 agnd
-Text GLabel 10450 4900 2    50   Input ~ 0
+Text GLabel 10500 4900 2    50   Input ~ 0
 pot4_push
 Text GLabel 9350 4800 0    50   Input ~ 0
 agnd
